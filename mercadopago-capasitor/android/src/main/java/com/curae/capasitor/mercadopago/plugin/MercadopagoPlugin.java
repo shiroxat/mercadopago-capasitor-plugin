@@ -14,7 +14,7 @@ public class MercadopagoPlugin extends Plugin {
         String value = call.getString("value");
 
         JSObject ret = new JSObject();
-        ret.put("value", value);
+        ret.put("value", "eco " + value);
         call.success(ret);
     }
 }

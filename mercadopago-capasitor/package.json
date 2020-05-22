@@ -1,7 +1,7 @@
 {
   "name": "mercadopago-capasitor",
   "version": "0.0.1",
-  "description": "Plugin de capasitor para mercadopago",
+  "description": "Plugin de capasitor para mercadopago, (todavia no funciona",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
